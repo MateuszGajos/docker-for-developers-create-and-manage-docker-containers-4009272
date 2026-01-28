@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: mgajosm01 /docker-demo:v5
+          tags: mgajosm01/docker-demo:v5
